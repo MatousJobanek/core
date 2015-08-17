@@ -29,9 +29,9 @@
 
         <!-- Dependency versions. KEEP IN ALPHABETICAL ORDER -->
         <apache.httpclient.version>3.1</apache.httpclient.version>
-        <arquillian.version>1.1.7.Final</arquillian.version>
-        <arquillian.drone.version>1.1.0.CR3</arquillian.drone.version>
-        <arquillian.graphene.version>2.0.0.Alpha2</arquillian.graphene.version>
+        <arquillian.version>1.1.8.Final</arquillian.version>
+        <arquillian.drone.version>2.0.0.Alpha5</arquillian.drone.version>
+        <arquillian.graphene.version>2.1.0.Alpha2</arquillian.graphene.version>
         <arquillian.weld.version>1.0.0.CR7</arquillian.weld.version>
         <arquillian.se.container.version>1.0.0.Alpha2</arquillian.se.container.version>
         <arquillian.tomcat.version>1.0.0.CR6</arquillian.tomcat.version>
@@ -64,12 +64,12 @@
         <log4j.version>1.2.17</log4j.version>
         <selenium.maven.plugin.version>1.0.1</selenium.maven.plugin.version>
         <shade.plugin.version>2.3</shade.plugin.version>
-        <shrinkwrap.version>1.1.3</shrinkwrap.version>
-        <shrinkwrap.descriptors.version>1.1.0-beta-1</shrinkwrap.descriptors.version>
+        <shrinkwrap.version>1.2.2</shrinkwrap.version>
+        <shrinkwrap.descriptors.version>2.0.0.alpha-7</shrinkwrap.descriptors.version>
         <testng.version>5.10</testng.version>
         <weld.api.version>3.0.Alpha14</weld.api.version>
         <weld.logging.tools.version>1.0.1.Final</weld.logging.tools.version>
-        <wildfly.arquillian.version>1.0.0.Alpha5</wildfly.arquillian.version>
+        <wildfly.arquillian.version>1.0.1.Final</wildfly.arquillian.version>
     </properties>
 
     <modules>
